@@ -1,0 +1,17 @@
+LICENSE
+MANIFEST.in
+README.md
+setup.py
+openfb_pomodoro.egg-info/PKG-INFO
+openfb_pomodoro.egg-info/SOURCES.txt
+openfb_pomodoro.egg-info/dependency_links.txt
+openfb_pomodoro.egg-info/requires.txt
+openfb_pomodoro.egg-info/top_level.txt
+pomodoro/__init__.py
+pomodoro/timer.py
+pomodoro/frontend/build/asset-manifest.json
+pomodoro/frontend/build/bootstrap.min.css
+pomodoro/frontend/build/index.html
+pomodoro/frontend/build/static/js/main.cbd28457.js
+pomodoro/frontend/build/static/js/main.cbd28457.js.LICENSE.txt
+pomodoro/frontend/build/static/js/main.cbd28457.js.map
