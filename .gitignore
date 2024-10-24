@@ -1,0 +1,6 @@
+/.streamlit
+/env
+**.pyc
+**.jpg
+**.csv
+**.xlsx
